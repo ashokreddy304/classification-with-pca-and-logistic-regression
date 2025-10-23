@@ -46,5 +46,6 @@ This project demonstrates a complete machine learning workflow, starting from Ex
 
 ---
 
-## 📂 Repository Structure
-
+👤 Author
+Ashok Reddy
+Data Analyst | ML Engineer | Data Scientist
