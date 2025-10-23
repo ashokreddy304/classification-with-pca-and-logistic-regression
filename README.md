@@ -46,6 +46,6 @@ This project demonstrates a complete machine learning workflow, starting from Ex
 
 ---
 
-👤 Author
-Ashok Reddy
-Data Analyst | ML Engineer | Data Scientist
+## 👤 Author
+
+**Ashok Reddy — Data Analyst | ML Engineer | Data Scientist**
