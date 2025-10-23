@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![ML](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 This project demonstrates a complete machine learning workflow, starting from Exploratory Data Analysis (EDA) to dimensionality reduction using Principal Component Analysis (PCA), followed by building a classification model using Logistic Regression. The goal is to understand the data, reduce feature dimensions, and improve model performance using a clean ML pipeline.
