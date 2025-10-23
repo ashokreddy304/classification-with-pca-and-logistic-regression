@@ -29,7 +29,6 @@ This project demonstrates a complete machine learning workflow, starting from Ex
 **4. Model Development**
 - Logistic Regression
 - Train/Test split
-- Pipeline implementation to avoid data leakage
 
 **5. Model Evaluation**
 - Accuracy Score
